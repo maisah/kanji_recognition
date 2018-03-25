@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: [Handwritten Kanji Recognition]
+description: [This site uses software that can recognize around 2100 Japanese characters. Simply draw the desired character and get our prediction.]
